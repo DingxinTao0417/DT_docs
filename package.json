@@ -4,7 +4,8 @@
   },
   "scripts": {
     "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
+  "docs:build": "vitepress build",
+  "vercel-build": "npm run docs:build",
     "docs:preview": "vitepress preview"
   }
 }
