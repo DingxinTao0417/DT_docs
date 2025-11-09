@@ -4,6 +4,7 @@ import sidebar from './sidebar.mts'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/DT-docs",
   srcDir: "docs",
   
   title: "DT Docs",
