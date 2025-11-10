@@ -3,7 +3,7 @@ layout: home
 title: Home
 hero:
   name: DT Docs
-  text: Tech Notes & Algorithms Practice
+  text: Sharing my coding & algorithm notes
   tagline: Structured learning paths and reusable code examples
   actions:
     - theme: brand

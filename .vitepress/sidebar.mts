@@ -62,15 +62,52 @@ export default {
             },
         ]
     }],
-    '/Web Dev/frontend/html': [{
-        text: 'HTML',
-        items: [
-            {
-                text: 'Introduction',
-                link: '/Web Dev/frontend/html/intro'
-            },
-        ]
-    }],
+    '/Web Dev/frontend/html': [
+        {
+            text: 'HTML',
+            items: [
+                {
+                    text: 'Introduction',
+                    link: '/Web Dev/frontend/html/intro'
+                },
+            ]
+        },
+    ],
+
+    '/Web Dev/frontend/react' : [
+        {
+            text: 'React',
+            items: [
+                {
+                    text: 'Basics',
+                    items: [
+                        { text: 'Development Setup', link: '/Web Dev/frontend/react/01-development-setup' },
+                        { text: 'JSX basics', link: '/Web Dev/frontend/react/02-jsx-basics' },
+                        { text: 'Events', link: '/Web Dev/frontend/react/03-events' },
+                        { text: 'Components', link: '/Web Dev/frontend/react/04-components' },
+                        { text: 'Youtube Comments Case', link: '/Web Dev/frontend/react/05-youtube-comments-case' },
+                        { text: 'Forms', link: '/Web Dev/frontend/react/06-forms' },
+                        { text: 'Component Communication', link: '/Web Dev/frontend/react/07-component-communication' },
+                        { text: 'useEffect', link: '/Web Dev/frontend/react/08-useEffect' },
+                        { text: 'Custom Hooks', link: '/Web Dev/frontend/react/09-custom-hooks' },
+                        { text: 'Optimize Comments Case', link: '/Web Dev/frontend/react/10-optimize-comments-case' },
+                        { text: 'Redux Intro', link: '/Web Dev/frontend/react/11-redux-intro' },
+                        { text: 'Ubereat Mini Case', link: '/Web Dev/frontend/react/12-ubereat-mini-case' },
+                        { text: 'Routing', link: '/Web Dev/frontend/react/13-routing' },
+                        { text: 'Expense Tracker Case', link: '/Web Dev/frontend/react/14-expense-tracker-case' },
+                        { text: 'Article Management Case', link: '/Web Dev/frontend/react/15-article-management-system-case' },
+                        { text: 'useRender', link: '/Web Dev/frontend/react/16-useReducer' },
+                        { text: 'Performance Optimization', link: '/Web Dev/frontend/react/17-performance-optimization' },
+                        { text: 'ForwardRef', link: '/Web Dev/frontend/react/18-forwardRef' },
+                        { text: 'useImperativeHandle', link: '/Web Dev/frontend/react/19-useImperativeHandle' },
+                        { text: 'class API', link: '/Web Dev/frontend/react/20-class-api' },
+                        { text: 'Zustand', link: '/Web Dev/frontend/react/21-zustand' },
+                    ]
+                    
+                },
+            ]
+        },
+    ],
 
     '/Web Dev/backend/java': [
         {

@@ -58,7 +58,7 @@ export default [
                     },
                     {
                         text: 'React',
-                        link: 'Algorithms/Array/ContainsDuplicate',
+                        link: 'Web Dev/frontend/react/01-development-setup',
                     },
                 ]
             },
