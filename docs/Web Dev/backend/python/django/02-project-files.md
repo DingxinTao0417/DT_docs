@@ -18,5 +18,3 @@ mysite/                 # Project root folder
    ├─ urls.py           # URL routes linked to views
    └─ wsgi.py           # WSGI entry point
 ```
-
-[Back to Index](../README.md)

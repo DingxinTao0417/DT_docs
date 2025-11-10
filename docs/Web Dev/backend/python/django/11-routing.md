@@ -195,5 +195,3 @@ urlpatterns = [
     path('reg.html', views.reg, name='app02_reg'),
 ]
 ```
-
-[Back to Index](../README.md)

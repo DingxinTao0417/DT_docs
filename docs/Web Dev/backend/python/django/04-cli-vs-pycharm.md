@@ -27,5 +27,3 @@ TEMPLATES = [
     }
 ]
 ```
-
-[Back to Index](../README.md)

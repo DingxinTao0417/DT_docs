@@ -16,5 +16,3 @@ Reference diagram (as in the original note):
 - Caches can store precomputed results to improve response time.
 - After data changes, you might not see updates immediately due to cached content.
 - Use Django’s cache framework appropriately and set sensible invalidation policies.
-
-[Back to Index](../README.md)

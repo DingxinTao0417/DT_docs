@@ -28,5 +28,3 @@ python manage.py startapp app01
 - New Project: choose the Django project template.
 - Run Server: either via terminal or the green run arrow (edit run configurations as needed).
 - Create App: use the integrated terminal with the full command, or Tools → Run manage.py Task (recommended later; for beginners, prefer typing full commands).
-
-[Back to Index](../README.md)

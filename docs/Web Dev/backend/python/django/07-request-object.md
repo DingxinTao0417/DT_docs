@@ -31,5 +31,3 @@ def login(request):
         return HttpResponse("Received your data.")
     return render(request, 'login.html')
 ```
-
-[Back to Index](../README.md)

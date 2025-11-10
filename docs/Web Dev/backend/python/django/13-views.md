@@ -143,5 +143,3 @@ class MyView(View):
             handler = self.http_method_not_allowed
         return handler(request, *args, **kwargs)
 ```
-
-[Back to Index](../README.md)

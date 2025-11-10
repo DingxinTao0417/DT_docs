@@ -74,5 +74,3 @@ from django.db import models
 class Book(models.Model):
     publish = models.ForeignKey('Publish', on_delete=models.CASCADE)
 ```
-
-[Back to Index](../README.md)

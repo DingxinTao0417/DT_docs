@@ -30,5 +30,3 @@ def go_out(request):
 def go_home(request):
     return redirect('/home/')
 ```
-
-[Back to Index](../README.md)

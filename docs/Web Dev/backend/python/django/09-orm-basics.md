@@ -132,5 +132,3 @@ class Book(models.Model):
 Design tips:
 - Place foreign keys on the side you query most often.
 - For many-to-many, use `ManyToManyField` and let Django manage the intermediate table.
-
-[Back to Index](../README.md)

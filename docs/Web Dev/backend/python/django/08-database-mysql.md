@@ -53,5 +53,3 @@ DATABASES = {
   python manage.py migrate
   ```
 - If you hit connection or SSL errors, confirm your MySQL server is running, credentials are correct, and client libraries are properly installed.
-
-[Back to Index](../README.md)

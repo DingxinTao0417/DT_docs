@@ -53,5 +53,3 @@ MIDDLEWARE = [
 ```
 
 Caution: Re-enable CSRF protection for any real application. It’s essential for security.
-
-[Back to Index](../README.md)

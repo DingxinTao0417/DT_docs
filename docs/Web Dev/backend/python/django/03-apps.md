@@ -20,5 +20,3 @@ INSTALLED_APPS = [
 ```
 
 Note: Some IDEs like PyCharm can scaffold and auto-register an app for you. If you generate the app manually, ensure you add it yourself.
-
-[Back to Index](../README.md)
