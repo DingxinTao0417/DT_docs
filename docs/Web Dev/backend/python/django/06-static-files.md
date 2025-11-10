@@ -20,7 +20,7 @@ STATICFILES_DIRS = [
 ```
 
 ## 12.6.3 Dynamic Resolution in Templates
-```django
+```html
 {% load static %}
 <link rel="stylesheet" href="{% static 'bootstrap-3.3.7-dist/css/bootstrap.min.css' %}">
 <script src="{% static 'bootstrap-3.3.7-dist/js/bootstrap.min.js' %}"></script>
