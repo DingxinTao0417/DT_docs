@@ -11,19 +11,13 @@ export default defineConfig({
   
   title: "DT Docs",
   description: "My notes",
-  locales: {
-    root: {
-      label: 'English',
-      lang: 'en-US',
-      themeConfig: {
-        // English theme config
-        nav,
-        search: { provider: 'local' },
-        sidebar,
-        socialLinks: [
+
+  themeConfig: {
+    nav,
+    sidebar,
+    search: { provider: 'local' },
+    socialLinks: [
           { icon: 'github', link: 'https://github.com/DingxinTao0417' }
-        ]
-      }
-    },
+    ]
   }
 })
