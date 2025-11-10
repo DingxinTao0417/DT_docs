@@ -67,7 +67,7 @@ export default [
                 items: [
                     {
                         text: 'Python',
-                        link: 'Web Dev/backend/python',
+                        link: 'Web Dev/backend/python/django/01-command-line',
                     },
                     {
                         text: 'Java',

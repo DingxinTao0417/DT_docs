@@ -159,4 +159,40 @@ export default {
             ]
         },
     ],
+    '/Web Dev/backend/python/django': [
+        {
+            text: 'Python',
+            items: [
+                {
+                    text: 'Django', collapsed: true, items: [
+                        { text: 'Command Line', link: '/Web Dev/backend/python/django/01-command-line' },
+                        { text: 'Project Files', link: '/Web Dev/backend/python/django/02-project-files' },
+                        { text: 'Apps', link: '/Web Dev/backend/python/django/03-apps' },
+                        { text: 'CLI vs PyCharm', link: '/Web Dev/backend/python/django/04-cli-vs-pycharm' },
+                        { text: 'Core Responses', link: '/Web Dev/backend/python/django/05-core-responses' },
+                        { text: 'Static Files', link: '/Web Dev/backend/python/django/06-static-files' },
+                        { text: 'Request Object', link: '/Web Dev/backend/python/django/07-request-object' },
+                        { text: 'Database (MySQL)', link: '/Web Dev/backend/python/django/08-database-mysql' },
+                        { text: 'ORM Basics', link: '/Web Dev/backend/python/django/09-orm-basics' },
+                        { text: 'Request Lifecycle', link: '/Web Dev/backend/python/django/10-request-lifecycle' },
+                        { text: 'Routing', link: '/Web Dev/backend/python/django/11-routing' },
+                        { text: 'Version Differences', link: '/Web Dev/backend/python/django/12-version-differences' },
+                        { text: 'Views', link: '/Web Dev/backend/python/django/13-views' },
+                        { text: 'Templates', link: '/Web Dev/backend/python/django/14-templates' },
+                        { text: 'Models', link: '/Web Dev/backend/python/django/15-models' },
+                        { text: 'AJAX', link: '/Web Dev/backend/python/django/16-ajax' },
+                        { text: 'Forms', link: '/Web Dev/backend/python/django/17-forms' },
+                        { text: 'Forms Component', link: '/Web Dev/backend/python/django/18-forms-component' },
+                        { text: 'Cookie & Session', link: '/Web Dev/backend/python/django/19-cookie-session' },
+                        { text: 'Middleware & CSRF', link: '/Web Dev/backend/python/django/20-middleware-csrf' },
+                        { text: 'Auth', link: '/Web Dev/backend/python/django/21-auth' },
+                        { text: 'Table Design (BBS)', link: '/Web Dev/backend/python/django/22-table-design-bbs' },
+                        { text: 'Admin', link: '/Web Dev/backend/python/django/23-admin' },
+                        { text: 'Permissions & Groups', link: '/Web Dev/backend/python/django/24-permissions-groups' },
+                        { text: 'DRF Basics', link: '/Web Dev/backend/python/django/25-drf-basics' },
+                    ]
+                }
+            ]
+        }
+    ],
 }
