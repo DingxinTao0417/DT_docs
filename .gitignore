@@ -1,0 +1,42 @@
+# Node / package managers
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# VitePress build & cache
+.vitepress/cache/
+.vitepress/dist/
+.vitepress/deps/
+
+# Generic build artifacts
+dist/
+.cache/
+temp/
+tmp/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Vercel local config
+.vercel/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Test coverage
+coverage/

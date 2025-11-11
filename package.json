@@ -3,9 +3,9 @@
     "vitepress": "^2.0.0-alpha.12"
   },
   "scripts": {
-    "docs:dev": "vitepress dev",
+  "docs:dev": "vitepress dev",
   "docs:build": "vitepress build",
   "vercel-build": "npm run docs:build",
-    "docs:preview": "vitepress preview"
+  "docs:preview": "vitepress preview"
   }
 }
