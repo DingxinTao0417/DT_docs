@@ -31,7 +31,7 @@ export default {
         ]
     }],
 
-    '/Algorithms/DataStructure/Basics': [{
+    '/Algorithms/DataStructure/Basics/': [{
         text: 'Basics',
         items: [
             {
@@ -62,7 +62,7 @@ export default {
             },
         ]
     }],
-    '/Web Dev/frontend/html': [
+    '/Web Dev/frontend/html/': [
         {
             text: 'HTML',
             items: [
@@ -74,7 +74,7 @@ export default {
         },
     ],
 
-    '/Web Dev/frontend/react' : [
+    '/Web Dev/frontend/react/' : [
         {
             text: 'React',
             items: [
@@ -109,7 +109,7 @@ export default {
         },
     ],
 
-    '/Web Dev/backend/java': [
+    '/Web Dev/backend/java/' : [
         {
             text: 'Java',
             items: [
@@ -159,7 +159,7 @@ export default {
             ]
         },
     ],
-    '/Web Dev/backend/python/django': [
+    '/Web Dev/backend/python/django/' : [
         {
             text: 'Python',
             items: [

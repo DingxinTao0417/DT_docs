@@ -10,6 +10,9 @@ export default defineConfig({
   // Set base for GitHub Pages project site: https://<user>.github.io/DT_docs/
   // If you use a custom domain, remove or change this accordingly.
   base: '/DT_docs/',
+  themeConfig: {
+    search: { provider: 'local' }
+  },
   
   locales: {
     root: {
@@ -21,7 +24,6 @@ export default defineConfig({
       themeConfig: {
         nav: nav as DefaultTheme.NavItem[],
         sidebar: sidebar as DefaultTheme.Sidebar,
-        search: { provider: 'local' },
         socialLinks: [
               { icon: 'github', link: 'https://github.com/DingxinTao0417' }
         ]
@@ -36,7 +38,6 @@ export default defineConfig({
       themeConfig: {
         nav: navZh as DefaultTheme.NavItem[],
         sidebar: sidebarZh as DefaultTheme.Sidebar,
-        search: { provider: 'local' },
         socialLinks: [
               { icon: 'github', link: 'https://github.com/DingxinTao0417' }
         ]

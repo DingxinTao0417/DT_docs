@@ -1,5 +1,9 @@
 export default [
     {
+        text: 'Home',
+        link: '/'
+    },
+    {
         text: 'Algorithms',
         items: [
             {
@@ -10,7 +14,7 @@ export default [
                         link: 'Algorithms/Blind75/intro',
                     },
                     {
-                        text: 'Leetcode',
+                        text: 'Leetcode Top 100',
                         link: 'Algorithms/Leetcode/intro',
                     },
                 ]
@@ -81,85 +85,6 @@ export default [
                         text: 'SQL',
                         link: 'Algorithms/Array/ContainsDuplicate',
                     },
-                ]
-            },
-            {
-                text: 'DevOps',
-                items: [
-                    {
-                        text: 'Linux/Shell',
-                        link: 'Algorithms/Array/TwoSum',
-                    },
-                    {
-                        text: 'Git',
-                        link: 'Algorithms/Array/ContainsDuplicate',
-                    },
-                    {
-                        text: 'AWS',
-                        link: 'Algorithms/Array/ContainsDuplicate',
-                    },
-                    {
-                        text: 'Docker',
-                        link: 'Algorithms/Array/ContainsDuplicate',
-                    },
-                ]
-            },
-            {
-                text: 'UI/UX',
-                items: [
-                    {
-                        text: 'Figma',
-                        link: 'Algorithms/Array/TwoSum',
-                    },
-                ]
-            },
-
-        ],
-    },
-    {
-        text: 'Data Science',
-        items: [
-            {
-                text: 'Machine Learning',
-                items: [
-                    {
-                        text: 'Supervised Learning',
-                        link: 'Algorithms/Array/TwoSum',
-                    },
-                    {
-                        text: 'Unsupervised Learning',
-                        link: 'Algorithms/Array/ContainsDuplicate',
-                    },
-                    {
-                        text: 'Reinforcement Learning',
-                        link: 'Algorithms/Array/ContainsDuplicate',
-                    },
-                ]
-            },
-            {
-                text: 'Data Analytics',
-                items: [
-                    {
-                        text: 'SQL',
-                        link: 'Algorithms/Array/TwoSum',
-                    },
-                    {
-                        text: 'Statistics',
-                        link: 'Algorithms/Array/ContainsDuplicate',
-                    },
-                    {
-                        text: 'Python',
-                        link: 'Algorithms/Array/ContainsDuplicate',
-                    },
-                    {
-                        text: 'R language',
-                        link: 'Algorithms/Array/ContainsDuplicate',
-                    },
-                    {
-                        text: 'Visualization',
-                        link: 'Algorithms/Array/ContainsDuplicate',
-                    },
-
                 ]
             },
         ],
